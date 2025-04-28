@@ -59,17 +59,27 @@ for line in lines:
                 "name": channel_name.strip(),
                 "group_title": group_title.group(1) if group_title else "",
                 "tvg_id": tvg_id.group(1) if tvg_id else "",
-                "tvg_logo": tvg_logo.group(1) if tvg_logo else ""
+                "tvg_logo": tvg_logo.group(1) if tvg_logo else "",
+                "kodi_props": [],  # Store KODIPROP lines
+                "url": ""
             }
             logger.info(f"Parsed channel: {channel_name.strip()}")
         else:
             logger.warning(f"Failed to parse EXTINF line: {line}")
+    elif line.startswith("#KODIPROP:"):
+        # Collect KODIPROP lines
+        if current_channel:
+            current_channel["kodi_props"].append(line)
+            logger.info(f"Added KODIPROP: {line}")
     elif line and not line.startswith("#"):
         # This is the URL for the channel
         current_channel["url"] = line
         # Generate M3U entry
         attributes = f'group-title="{current_channel["group_title"]}" tvg-id="{current_channel["tvg_id"]}" tvg-logo="{current_channel["tvg_logo"]}"'
         m3u_content += f'#EXTINF:-1 {attributes},{current_channel["name"]}\n'
+        # Add KODIPROP lines
+        for prop in current_channel["kodi_props"]:
+            m3u_content += f'{prop}\n'
         m3u_content += f'{current_channel["url"]}\n'
         logger.info(f"Added channel URL: {line}")
         channel_count += 1
