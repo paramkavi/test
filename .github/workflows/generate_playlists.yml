@@ -2,9 +2,8 @@ name: Generate M3U Playlists
 
 on:
   schedule:
-    # Runs every day at 3:00 AM UTC
     - cron: '0 3 * * *'
-  workflow_dispatch: # Allows manual triggering from the Actions tab
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,7 +15,7 @@ jobs:
   build-playlists:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allow the job to push changes back to the repo
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -32,33 +31,46 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: List Playlists Directory Before
+        run: |
+          echo "Contents of playlists/ before running script:"
+          ls -la playlists/ || echo "playlists/ directory does not exist"
+
       - name: Run Playlist Generation Script
         run: python generate_playlists.py
+
+      - name: List Playlists Directory After
+        run: |
+          echo "Contents of playlists/ after running script:"
+          ls -la playlists/
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # Check if there are any changes in the playlists directory
-          if git diff --quiet --exit-code playlists/; then
-            echo "No changes detected in playlists."
-            exit 0 # Exit successfully, no commit needed
-          fi
-          echo "Changes detected, committing updates..."
-          git add playlists/ # Stage changes in the playlists directory
-          git commit -m "Update M3U playlists [skip ci]"
-          # Retry push with delay in case of transient errors
-          n=0
-          until [ $n -ge 5 ]
-          do
-            git push && break
-            n=$((n+1))
-            echo "Push failed. Retrying attempt $n/5..."
-            sleep 15
-          done
-          if [ $n -ge 5 ]; then
-            echo "Failed to push changes after multiple attempts."
-            exit 1
+          # Check if the M3U file exists
+          if [ -f playlists/extracted_playlist.m3u ]; then
+            echo "M3U file exists, staging for commit..."
+            git add playlists/extracted_playlist.m3u
+            git add playlists/script.log || echo "No log file to add"
+            # Commit changes, even if minimal
+            git commit -m "Update M3U playlists [skip ci]" || echo "No changes to commit"
+            # Retry push with delay
+            n=0
+            until [ $n -ge 5 ]
+            do
+              git push && break
+              n=$((n+1))
+              echo "Push failed. Retrying attempt $n/5..."
+              sleep 15
+            done
+            if [ $n -ge 5 ]; then
+              echo "Failed to push changes after multiple attempts."
+              exit 1
+            fi
+          else
+            echo "No M3U file found in playlists/. Nothing to commit."
+            exit 0
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
