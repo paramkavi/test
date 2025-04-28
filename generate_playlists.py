@@ -1,5 +1,9 @@
 import requests
 import re
+import os
+
+# Ensure the playlists directory exists
+os.makedirs("playlists", exist_ok=True)
 
 # URL of the raw M3U file
 url = "https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/tv"
@@ -43,8 +47,9 @@ for line in lines:
         # Reset current channel
         current_channel = {}
 
-# Save the M3U content to a file
-with open("extracted_playlist.m3u", "w", encoding="utf-8") as f:
+# Save the M3U content to a file in the playlists directory
+output_path = "playlists/extracted_playlist.m3u"
+with open(output_path, "w", encoding="utf-8") as f:
     f.write(m3u_content)
 
-print("M3U playlist generated successfully as 'extracted_playlist.m3u'")
+print(f"M3U playlist generated successfully as '{output_path}'")
