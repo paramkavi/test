@@ -1,0 +1,886 @@
+2025-04-28 03:08:40,157 - INFO - Starting M3U playlist generation
+2025-04-28 03:08:40,207 - INFO - HTTP request to https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/tv returned status code: 200
+2025-04-28 03:08:40,208 - INFO - Fetched 337896 characters from URL
+2025-04-28 03:08:40,209 - INFO - Parsed channel: TV1
+2025-04-28 03:08:40,209 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+2025-04-28 03:08:40,209 - INFO - Parsed channel: TV2
+2025-04-28 03:08:40,209 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+2025-04-28 03:08:40,209 - INFO - Parsed channel: TV3
+2025-04-28 03:08:40,209 - INFO - Added channel URL: https://live-ssar-01.tonton.com.my/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+2025-04-28 03:08:40,209 - INFO - Parsed channel: AlHijrah
+2025-04-28 03:08:40,209 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+2025-04-28 03:08:40,209 - INFO - Parsed channel: TVS
+2025-04-28 03:08:40,209 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: TV6
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: DidikTV
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: 8TV
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: TV9
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: OKEY
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+2025-04-28 03:08:40,210 - INFO - Parsed channel: RTM Asean
+2025-04-28 03:08:40,210 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,210 - INFO - Parsed channel: Selangor TV
+2025-04-28 03:08:40,210 - INFO - Parsed channel: Drama Sangat
+2025-04-28 03:08:40,210 - INFO - Parsed channel: RTM Snap
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Lead
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Apetito
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Fitrah
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Junior
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Roll
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Aura
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: RTM Borak
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
+2025-04-28 03:08:40,211 - INFO - Parsed channel: Drama Hebat
+2025-04-28 03:08:40,211 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Filem Mantap
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Lawak Sentral
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Drama Hotpot
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Travel & Taste
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Oh My Ceria!
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Jom Ngaji
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Parlimen Dewan Rakyat
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
+2025-04-28 03:08:40,212 - INFO - Parsed channel: Parlimen Dewan Negara
+2025-04-28 03:08:40,212 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Ria
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://l16.dp.sooka.my/1004/linear/index.mpd
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Prima
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://l18.dp.sooka.my/1000/linear/index.mpd
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Oasis
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Warna
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://aseanic.github.io/hls/26.m3u8
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Citra
+2025-04-28 03:08:40,213 - INFO - Added channel URL: http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Sensasi
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://aseanic.github.io/hls/28.m3u8
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Rania
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+2025-04-28 03:08:40,213 - INFO - Parsed channel: Astro Aura
+2025-04-28 03:08:40,213 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Premier
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Vaanavil வானவில்
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Vinmeen விண்மீன்
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://nanopi.rocket-tv.online/Astro_Vinmeen/default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Vellithirai வெள்ளித்திரை
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5073//default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Thangathirai தங்கத்திரை
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://nanopi.rocket-tv.online/Office_Thangathirai/default_primary.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro AEC 亚洲娱乐频道
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://l04.dp.sooka.my/2400/linear/index.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Quan Jia 全佳
+2025-04-28 03:08:40,214 - INFO - Added channel URL: https://l01.dp.sooka.my/2507/linear/index.mpd
+2025-04-28 03:08:40,214 - INFO - Parsed channel: Astro Hua Hee Dai 华怡电视
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro AOD 点播
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://nanopi.rocket-tv.online/Astro_AOD/default_primary.mpd
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro First
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7f7de1e-10a5-5a3d-87ac-90b6c7a1d2c4/default_dash.mpd
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro First
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro Mustika
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://archive.org/download/MalayRetro/Kami.1982.720p.HDTV.LEGENDTV.mkv.mp4
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro Mustika
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://archive.org/download/MalayRetro/Setinggan.1981.720p.HDTV.LEGENDTV.mp4
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro Mustika
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://archive.org/download/LegendMalay/Langgar.2013.HDTV.1080p.Engsub-LEGENDTV.mp4
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro Mustika
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://archive.org/download/LegendMalay/Remp-It_2006_1080p_LEGENDTV.mkv
+2025-04-28 03:08:40,215 - INFO - Parsed channel: Astro Maya HD
+2025-04-28 03:08:40,215 - INFO - Added channel URL: https://www.googleapis.com/drive/v3/files/1se0BtN1vGn8iKMCR_tDF1Ihmd29INS18?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+2025-04-28 03:08:40,216 - INFO - Parsed channel: IQIYI 爱奇艺
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1006//default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: TVBS Asia 亞洲
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/402//default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: TVB Classic 经典频道
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: Celestial Movies 天映频道
+2025-04-28 03:08:40,216 - INFO - Added channel URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: TVB Jade 翡翠
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: TVB E-News 無綫娛樂新聞台
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5015//default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: TVB Xing He 星河
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/401//default_primary.mpd
+2025-04-28 03:08:40,216 - INFO - Parsed channel: CCM 天映经典频道
+2025-04-28 03:08:40,216 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Phoenix News 凤凰卫视中文台
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/400//default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Phoenix Info 凤凰资讯台
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5009//default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: CTI Asia 中天亚洲台
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: CCTV4
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Sun TV சன் டிவி
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Sun Music சன் மியூசிக்
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5011//default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Adithya ஆதித்யா
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/915//default_primary.mpd
+2025-04-28 03:08:40,217 - INFO - Parsed channel: Sun News சன் நியூஸ்
+2025-04-28 03:08:40,217 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5087//default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: KTV கலைஞர் டிவி
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Sun Life சன் லைஃப்
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Star Vijay ஸ்டார் விஜய்
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Colors Hindi कलर्स हिंदी
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Colors Tamil கலர்ஸ் தமிழ்
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Zee Tamil ஜீ தமிழ்
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: Zee Cinema ஜீ சினிமா
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+2025-04-28 03:08:40,218 - INFO - Parsed channel: BollywooDᴴᴰ बॉलीवुड
+2025-04-28 03:08:40,218 - INFO - Added channel URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+2025-04-28 03:08:40,218 - INFO - Parsed channel: BollywooD Classicᴴᴰ बॉलीवुड क्लासिक
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+2025-04-28 03:08:40,219 - INFO - Parsed channel: TLC
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: Food Network
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: Asian Food Network
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: HGTV
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: DMAX
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: BBC Lifestyle
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+2025-04-28 03:08:40,219 - INFO - Parsed channel: Travel Channel
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://aseanic.github.io/hls/92.m3u8
+2025-04-28 03:08:40,219 - INFO - Parsed channel: Travel XP
+2025-04-28 03:08:40,219 - INFO - Added channel URL: https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Outdoor
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Fashion TV
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Discovery Channel
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Discovery Asia
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Discovery Science
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://aseanic.github.io/hls/98.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Discovery Family
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://aseanic.github.io/hls/99.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Discovery Life
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://aseanic.github.io/hls/100.m3u8
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Love Nature
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+2025-04-28 03:08:40,220 - INFO - Parsed channel: Global Trekker
+2025-04-28 03:08:40,220 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+2025-04-28 03:08:40,221 - INFO - Parsed channel: BBC Earth
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+2025-04-28 03:08:40,221 - INFO - Parsed channel: History
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+2025-04-28 03:08:40,221 - INFO - Parsed channel: Animal Planet
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+2025-04-28 03:08:40,221 - INFO - Parsed channel: Crime + Investigation
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+2025-04-28 03:08:40,221 - INFO - Parsed channel: Investigation Discovery
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://aseanic.github.io/hls/107.m3u8
+2025-04-28 03:08:40,221 - INFO - Parsed channel: NatGeo
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://aseanic.github.io/hls/108.m3u8
+2025-04-28 03:08:40,221 - INFO - Parsed channel: NatGeo Wild
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://aseanic.github.io/hls/109.m3u8
+2025-04-28 03:08:40,221 - INFO - Parsed channel: Smithsonian
+2025-04-28 03:08:40,221 - INFO - Added channel URL: https://aseanic.github.io/hls/110.m3u8
+2025-04-28 03:08:40,221 - INFO - Parsed channel: AXN
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+2025-04-28 03:08:40,222 - INFO - Parsed channel: HITS NOW
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Lifetime
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+2025-04-28 03:08:40,222 - INFO - Parsed channel: HITS
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Warner TV
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Paramount
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://aseanic.github.io/hls/116.m3u8
+2025-04-28 03:08:40,222 - INFO - Parsed channel: E!
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://aseanic.github.io/hls/117.m3u8
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Comedy Central
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://aseanic.github.io/hls/118.m3u8
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Syfy
+2025-04-28 03:08:40,222 - INFO - Added channel URL: https://aseanic.github.io/hls/119.m3u8
+2025-04-28 03:08:40,222 - INFO - Parsed channel: Astro Ceria
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Astro Tutor
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Cartoon Network
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/509//default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Nickelodeon
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Nick Jr.
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Moonbug Kids
+2025-04-28 03:08:40,223 - INFO - Added channel URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: CBeebies
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: DreamWorks
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+2025-04-28 03:08:40,223 - INFO - Parsed channel: Disney Channel
+2025-04-28 03:08:40,223 - INFO - Added channel URL: https://aseanic.github.io/hls/128.m3u8
+2025-04-28 03:08:40,224 - INFO - Parsed channel: Disney Junior
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://aseanic.github.io/hls/129.m3u8
+2025-04-28 03:08:40,224 - INFO - Parsed channel: Disney XD
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://aseanic.github.io/hls/130.m3u8
+2025-04-28 03:08:40,224 - INFO - Parsed channel: Blippi & Friends
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: HITS Movies
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: BOO
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: Cinemax
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: Showcase
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: HBO Family
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+2025-04-28 03:08:40,224 - INFO - Parsed channel: HBO Hits
+2025-04-28 03:08:40,224 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO US
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://aseanic.github.io/hls/139.m3u8
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO 2
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://aseanic.github.io/hls/140.m3u8
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO Comedy
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://aseanic.github.io/hls/141.m3u8
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO Signature
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://aseanic.github.io/hls/142.m3u8
+2025-04-28 03:08:40,225 - INFO - Parsed channel: HBO Zone
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://aseanic.github.io/hls/143.m3u8
+2025-04-28 03:08:40,225 - INFO - Parsed channel: Berita RTM
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+2025-04-28 03:08:40,225 - INFO - Parsed channel: Astro Awani
+2025-04-28 03:08:40,225 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+2025-04-28 03:08:40,225 - INFO - Parsed channel: Bernama
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: CGTN
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: CNN
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: BBC news
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: Aljazeera
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: Sky News
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: CNBC Asia
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: Bloomberg TV
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+2025-04-28 03:08:40,226 - INFO - Parsed channel: DW
+2025-04-28 03:08:40,226 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: ABC Australia
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: France 24
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: NHK World Premium ワールド プレミアム
+2025-04-28 03:08:40,227 - INFO - Added channel URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Astro Arena
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Astro Arena 2
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Astro Badminton
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Astro Badminton 2
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Arena Bola
+2025-04-28 03:08:40,227 - INFO - Added channel URL: https://l01.dp.sooka.my/5099/linear/index.mpd
+2025-04-28 03:08:40,227 - INFO - Parsed channel: Arena Bola 2
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://l02.dp.sooka.my/5100/linear/index.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Football
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Grandstand
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://l03.dp.sooka.my/2701/linear/index.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Premier League
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://l01.dp.sooka.my/601/linear/index.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Premier League 2
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://l02.dp.sooka.my/2104/linear/index.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Premier League 3
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Premier League 4
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Premier League 5
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Sports Plus
+2025-04-28 03:08:40,228 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
+2025-04-28 03:08:40,228 - INFO - Parsed channel: Astro Cricket
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: Astro Sports UHD
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: W-Sport
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: SpoTV 1
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: SpoTV 2
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: Beinsports 1
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: Beinsports 2
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: Beinsports 3
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+2025-04-28 03:08:40,229 - INFO - Parsed channel: Eurosport
+2025-04-28 03:08:40,229 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Eurosport 2
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Golf
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Tennis
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Premiersport
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: WWE Network
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://aseanic.github.io/hls/186.m3u8
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Fight Sports
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: NBA TV
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Sukan RTM
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+2025-04-28 03:08:40,230 - INFO - Parsed channel: Redbull TV
+2025-04-28 03:08:40,230 - INFO - Added channel URL: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+2025-04-28 03:08:40,231 - INFO - Parsed channel: MUTV
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Hitz FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: My FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Lite
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: MIX FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Era FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Sinar FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Melody FM
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
+2025-04-28 03:08:40,231 - INFO - Parsed channel: Raaga
+2025-04-28 03:08:40,231 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Classic Rock
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Gold
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Opus
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Gegar
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: India Beat
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Jazz
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Osai
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Bayu
+2025-04-28 03:08:40,232 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+2025-04-28 03:08:40,232 - INFO - Parsed channel: Kenyalang
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Nasional FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: V FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Wai FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Traxx FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Minnal FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: AI FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Asyik FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Zayan FM
+2025-04-28 03:08:40,233 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+2025-04-28 03:08:40,233 - INFO - Parsed channel: Goxuan FM
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
+2025-04-28 03:08:40,234 - INFO - Parsed channel: MTV Live
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+2025-04-28 03:08:40,234 - INFO - Parsed channel: MTV
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://aseanic.github.io/hls/221.m3u8
+2025-04-28 03:08:40,234 - INFO - Parsed channel: MTV2
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://aseanic.github.io/hls/222.m3u8
+2025-04-28 03:08:40,234 - INFO - Parsed channel: MTV 90s
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+2025-04-28 03:08:40,234 - INFO - Parsed channel: NOW 80
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://bit.ly/42sWhyD?/playlist.m3u8
+2025-04-28 03:08:40,234 - INFO - Parsed channel: NOW Rock
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://bit.ly/3B1M54o?/playlist.m3u8
+2025-04-28 03:08:40,234 - INFO - Parsed channel: Vevo '70s
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+2025-04-28 03:08:40,234 - INFO - Parsed channel: Vevo '80s
+2025-04-28 03:08:40,234 - INFO - Added channel URL: https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo '90s
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo 2010s
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo 2K
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo Country
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo Hip-Hop
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo Holiday
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo Latino
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo Pop
+2025-04-28 03:08:40,235 - INFO - Added channel URL: https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+2025-04-28 03:08:40,235 - INFO - Parsed channel: Vevo R&B
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+2025-04-28 03:08:40,236 - INFO - Parsed channel: Vevo Retro Rock
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+2025-04-28 03:08:40,236 - INFO - Parsed channel: NEW KPOP
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+2025-04-28 03:08:40,236 - INFO - Parsed channel: K-POP by CJ ENM
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
+2025-04-28 03:08:40,236 - INFO - Parsed channel: Fashion TV 4K
+2025-04-28 03:08:40,236 - INFO - Added channel URL: http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+2025-04-28 03:08:40,236 - INFO - Parsed channel: Love Nature 4K
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
+2025-04-28 03:08:40,236 - INFO - Parsed channel: Loupe 4K
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+2025-04-28 03:08:40,236 - INFO - Parsed channel: TVB 翡翠台 4K
+2025-04-28 03:08:40,236 - INFO - Added channel URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+2025-04-28 03:08:40,236 - INFO - Parsed channel: RTB Sukmaindera
+2025-04-28 03:08:40,236 - INFO - Added channel URL: https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Aneka
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Go Live
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Pelangi
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Harmoni
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Pilihan
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Nurislam
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: RTB Nasional
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+2025-04-28 03:08:40,237 - INFO - Parsed channel: Channel 5
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+2025-04-28 03:08:40,237 - INFO - Parsed channel: Channel 8
+2025-04-28 03:08:40,237 - INFO - Added channel URL: https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Channel U
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Channel Suria
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Channel Vasantham
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: CNA
+2025-04-28 03:08:40,238 - INFO - Added channel URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Mediacorp Entertainment English
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Mediacorp Entertainment Tamil
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Mediacorp Entertainment Chinese
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+2025-04-28 03:08:40,238 - INFO - Parsed channel: Animax アニマックス
+2025-04-28 03:08:40,238 - INFO - Added channel URL: https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+2025-04-28 03:08:40,238 - INFO - Parsed channel: oktolidays
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: meWATCH LIVE 1
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: meWATCH LIVE 2
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: SPORT 1
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: SPORT 2
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: KBS World
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: ONE 원
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: tvN
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+2025-04-28 03:08:40,239 - INFO - Parsed channel: tvN Movies
+2025-04-28 03:08:40,239 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+2025-04-28 03:08:40,240 - INFO - Parsed channel: KPlus
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+2025-04-28 03:08:40,240 - INFO - Parsed channel: KIX
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+2025-04-28 03:08:40,240 - INFO - Parsed channel: Arirang 아리랑
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
+2025-04-28 03:08:40,240 - INFO - Parsed channel: Gem ジェム
+2025-04-28 03:08:40,240 - INFO - Parsed channel: RCTI
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://aseanic.github.io/hls/284.m3u8
+2025-04-28 03:08:40,240 - INFO - Parsed channel: GTV
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://aseanic.github.io/hls/285.m3u8
+2025-04-28 03:08:40,240 - INFO - Parsed channel: MNC TV
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://aseanic.github.io/hls/286.m3u8
+2025-04-28 03:08:40,240 - INFO - Parsed channel: NET
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://aseanic.github.io/hls/287.m3u8
+2025-04-28 03:08:40,240 - INFO - Parsed channel: iNews
+2025-04-28 03:08:40,240 - INFO - Added channel URL: https://aseanic.github.io/hls/288.m3u8
+2025-04-28 03:08:40,241 - INFO - Parsed channel: ANTV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+2025-04-28 03:08:40,241 - INFO - Parsed channel: Indosiar
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+2025-04-28 03:08:40,241 - INFO - Parsed channel: SCTV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+2025-04-28 03:08:40,241 - INFO - Parsed channel: Garuda TV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+2025-04-28 03:08:40,241 - INFO - Parsed channel: Metro TV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+2025-04-28 03:08:40,241 - INFO - Parsed channel: Kompas TV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+2025-04-28 03:08:40,241 - INFO - Parsed channel: IDTV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+2025-04-28 03:08:40,241 - INFO - Parsed channel: BTV
+2025-04-28 03:08:40,241 - INFO - Added channel URL: https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+2025-04-28 03:08:40,241 - INFO - Parsed channel: CNN Indonesia
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+2025-04-28 03:08:40,242 - INFO - Parsed channel: CNBC Indonesia
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+2025-04-28 03:08:40,242 - INFO - Parsed channel: IDX Channel
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: Trans 7
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: Trans TV
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: Moji
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: TVOne
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: TVOne
+2025-04-28 03:08:40,242 - INFO - Parsed channel: SEA Today
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
+2025-04-28 03:08:40,242 - INFO - Parsed channel: Magna Channel
+2025-04-28 03:08:40,242 - INFO - Added channel URL: https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+2025-04-28 03:08:40,243 - INFO - Parsed channel: AllPlay ENT.
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+2025-04-28 03:08:40,243 - INFO - Parsed channel: Rajawali TV
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+2025-04-28 03:08:40,243 - INFO - Parsed channel: TVRI Nasional
+2025-04-28 03:08:40,243 - INFO - Parsed channel: TVRI Nasional
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+2025-04-28 03:08:40,243 - INFO - Parsed channel: TVRI World
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+2025-04-28 03:08:40,243 - INFO - Parsed channel: TVRI Sport
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+2025-04-28 03:08:40,243 - INFO - Parsed channel: JAK TV
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+2025-04-28 03:08:40,243 - INFO - Parsed channel: JTV
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+2025-04-28 03:08:40,243 - INFO - Parsed channel: Nusantara TV
+2025-04-28 03:08:40,243 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+2025-04-28 03:08:40,243 - INFO - Parsed channel: Jakarta GlobeNews Channel
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Euronews
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Daai TV
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+2025-04-28 03:08:40,244 - INFO - Parsed channel: EAT&GO
+2025-04-28 03:08:40,244 - INFO - Parsed channel: !nsert
+2025-04-28 03:08:40,244 - INFO - Parsed channel: First Lifestyle
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Citra Drama
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Citra Dangdut
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Citra Muslim HD
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+2025-04-28 03:08:40,244 - INFO - Parsed channel: Citra Bioskop HD
+2025-04-28 03:08:40,244 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Citra Entertainment HD
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Curiosity
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Techstorm
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Boomerang
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://aseanic.github.io/hls/314.m3u8
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Chutti சுட்டி
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Fun Planet
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Horee
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Mentari TV
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Da Vinci Learning
+2025-04-28 03:08:40,245 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+2025-04-28 03:08:40,245 - INFO - Parsed channel: Dunia Anak
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Dunia Lain
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Hanacakara TV
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://haoyunlai.serv00.net/Smartv-1.php?id=Lifestyle
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Music TV
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://haoyunlai.serv00.net/Smartv-1.php?id=MusicTV
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Musik Indonesia
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Vision Prime
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://haoyunlai.serv00.net/Smartv-1.php?id=VisionPrime
+2025-04-28 03:08:40,246 - INFO - Parsed channel: ROCK Action
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+2025-04-28 03:08:40,246 - INFO - Parsed channel: ROCK Entertainment
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+2025-04-28 03:08:40,246 - INFO - Parsed channel: Thrill
+2025-04-28 03:08:40,246 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Cinemaworld
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: IMC
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Galaxy
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Galaxy Premium
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Zee Bioskop
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Bioskop Indonesia
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Flik
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Maxstream
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+2025-04-28 03:08:40,247 - INFO - Parsed channel: Studio Universal
+2025-04-28 03:08:40,247 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: Tawaf TV
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://haoyunlai.serv00.net/Smartv-1.php?id=TawafTV
+2025-04-28 03:08:40,248 - INFO - Parsed channel: Sunnah TV
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SunnahTV/mpd/SunnahTV.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: TV9
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: Al Quran TV
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: Reformed HD
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: EWTN
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: MTA TV
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: MUI TV
+2025-04-28 03:08:40,248 - INFO - Added channel URL: https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+2025-04-28 03:08:40,248 - INFO - Parsed channel: Rodja TV
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://rodjatv.com/rodjatv/live.m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: NHK World Japan ワールド
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+2025-04-28 03:08:40,249 - INFO - Parsed channel: NBT
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: TPBS
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: ALTV
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: 5HD
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: TSport
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: TPTV
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: TNN16
+2025-04-28 03:08:40,249 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+2025-04-28 03:08:40,249 - INFO - Parsed channel: JKN18
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: Nation
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: Workpoint
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: True24
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: GMM25
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: ช่อง 8
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: Mono
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: MCOT
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
+2025-04-28 03:08:40,250 - INFO - Parsed channel: One
+2025-04-28 03:08:40,250 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: Thairath
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: 3 HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: Amarin
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: 7 HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: PPTV
+2025-04-28 03:08:40,251 - INFO - Added channel URL: http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+2025-04-28 03:08:40,251 - INFO - Parsed channel: TV5 HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+2025-04-28 03:08:40,251 - INFO - Parsed channel: One News HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+2025-04-28 03:08:40,251 - INFO - Parsed channel: One Sports HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+2025-04-28 03:08:40,251 - INFO - Parsed channel: One Sports+ HD
+2025-04-28 03:08:40,251 - INFO - Added channel URL: https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: One PH
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: TFC ASIA
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: TFC EUROPE
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: TFC CANADA
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: GMA Pinoy TV
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: RPTV
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: A2Z
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: Buko Channel
+2025-04-28 03:08:40,252 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+2025-04-28 03:08:40,252 - INFO - Parsed channel: DepEd TV
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: IBC 13
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: UAAP Varsity
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: PopUp PPV HD
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: MPTV
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: PBO
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: TVUP
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: TMC
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: Dreamwork Tagalog
+2025-04-28 03:08:40,253 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+2025-04-28 03:08:40,253 - INFO - Parsed channel: Knowledge Channel
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: PBA Rush HD
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Viva Cinema
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Tap TV
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Tap Movies HD
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Tap Sports
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Tap Edge
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: Tap Action Flix HD
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+2025-04-28 03:08:40,254 - INFO - Parsed channel: PTV 4
+2025-04-28 03:08:40,254 - INFO - Added channel URL: https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: Sari Sari
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: Lotus Macau
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: NBA PH
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: Fashion TV HD
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: Bilyonaryo News Channel
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: True FM TV
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: TV Maria
+2025-04-28 03:08:40,255 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+2025-04-28 03:08:40,255 - INFO - Parsed channel: ALIW CHANNEL 23
+2025-04-28 03:08:40,255 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,255 - INFO - Parsed channel: UNTV
+2025-04-28 03:08:40,255 - INFO - Added channel URL: http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: GTV
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: NET 25
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: ALLTV
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: Kapamilya Channel HD
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: Kapamilya Channel
+2025-04-28 03:08:40,256 - INFO - Added channel URL: https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+2025-04-28 03:08:40,256 - INFO - Parsed channel: Celestial Movies Pinoy
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: SolarFlix
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: Living Asia Channel
+2025-04-28 03:08:40,256 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,256 - INFO - Parsed channel: Pinoy Xtreme
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,257 - INFO - Parsed channel: Radyo Bandido TV
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,257 - INFO - Parsed channel: Jeepney TV
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,257 - INFO - Parsed channel: Cinema One Global
+2025-04-28 03:08:40,257 - INFO - Added channel URL: https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+2025-04-28 03:08:40,257 - INFO - Parsed channel: Cinema One Philippines
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,257 - INFO - Parsed channel: Solar Sports
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,257 - INFO - Parsed channel: ANC
+2025-04-28 03:08:40,257 - INFO - Added channel URL: https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
+2025-04-28 03:08:40,257 - INFO - Parsed channel: MYX Global
+2025-04-28 03:08:40,257 - INFO - Added channel URL: https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+2025-04-28 03:08:40,257 - INFO - Parsed channel: MYX Philippines
+2025-04-28 03:08:40,257 - INFO - Added channel URL: http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,258 - INFO - Parsed channel: TeleRadyo Serbisyo
+2025-04-28 03:08:40,258 - INFO - Added channel URL: https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
+2025-04-28 03:08:40,258 - INFO - Parsed channel: INC TV
+2025-04-28 03:08:40,258 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,258 - INFO - Parsed channel: SMNI CHANNEL
+2025-04-28 03:08:40,258 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001155/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,258 - INFO - Parsed channel: ORAS NG HIMALA
+2025-04-28 03:08:40,258 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,258 - INFO - Parsed channel: Premier Sports
+2025-04-28 03:08:40,258 - INFO - Added channel URL: https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+2025-04-28 03:08:40,258 - INFO - Parsed channel: Premier Sports 2
+2025-04-28 03:08:40,258 - INFO - Added channel URL: https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+2025-04-28 03:08:40,258 - INFO - Parsed channel: Premier Football
+2025-04-28 03:08:40,258 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,258 - INFO - Parsed channel: MOR Entertainment
+2025-04-28 03:08:40,258 - INFO - Added channel URL: https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd
+2025-04-28 03:08:40,258 - INFO - Parsed channel: PILIPINAS LIVE EVENT 01
+2025-04-28 03:08:40,258 - INFO - Added channel URL: https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 02
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 03
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 04
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 05
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 06
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 07
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 08
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 09
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
+2025-04-28 03:08:40,259 - INFO - Parsed channel: PILIPINAS LIVE EVENT 10
+2025-04-28 03:08:40,259 - INFO - Added channel URL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Rock TV Manila
+2025-04-28 03:08:40,260 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Cartoonito
+2025-04-28 03:08:40,260 - INFO - Added channel URL: http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Unifi Dunia Sinema
+2025-04-28 03:08:40,260 - INFO - Added channel URL: https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Unifi Salam
+2025-04-28 03:08:40,260 - INFO - Added channel URL: https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Unifi Siar
+2025-04-28 03:08:40,260 - INFO - Added channel URL: https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Unifi Inspirasi
+2025-04-28 03:08:40,260 - INFO - Added channel URL: https://unifi-live09.secureswiftcontent.com/UnifiHD/live29.mpd
+2025-04-28 03:08:40,260 - INFO - Parsed channel: Unifi Sports
+2025-04-28 03:08:40,260 - INFO - Added channel URL: https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+2025-04-28 03:08:40,261 - INFO - M3U playlist generated successfully as 'playlists/extracted_playlist.m3u' with 435 channels
+2025-04-28 03:08:40,261 - INFO - M3U playlist generation completed
