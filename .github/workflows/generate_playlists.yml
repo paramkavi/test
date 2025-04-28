@@ -55,6 +55,15 @@ jobs:
             git add playlists/script.log || echo "No log file to add"
             # Commit changes, even if minimal
             git commit -m "Update M3U playlists [skip ci]" || echo "No changes to commit"
+            # Pull with rebase to integrate remote changes
+            echo "Pulling latest changes from remote..."
+            git fetch origin
+            git rebase origin/main
+            if [ $? -ne 0 ]; then
+              echo "Rebase failed, aborting..."
+              git rebase --abort
+              exit 1
+            fi
             # Retry push with delay
             n=0
             until [ $n -ge 5 ]
